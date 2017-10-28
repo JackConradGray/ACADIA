@@ -51,17 +51,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Polarith\AI\Examples\Scripts\CountObjects.cs" />
-     <Compile Include="Assets\Polarith\AI\Examples\Scripts\DeactivateOnHit.cs" />
-     <Compile Include="Assets\Polarith\AI\Examples\Scripts\DestroyOnHit.cs" />
-     <Compile Include="Assets\Polarith\AI\Examples\Scripts\FramesPerSecond.cs" />
-     <Compile Include="Assets\Polarith\AI\Examples\Scripts\PooledEnvUpdater.cs" />
-     <Compile Include="Assets\Polarith\AI\Examples\Scripts\RandomObjects.cs" />
      <Compile Include="Assets\spinningWheels.cs" />
      <Compile Include="Assets\wheelSpin.cs" />
-     <None Include="Assets\Polarith\AI\Documentation\License.txt" />
-     <None Include="Assets\Polarith\AI\Plugins\Editor\Polarith.AI.Editor.xml" />
-     <None Include="Assets\Polarith\AI\Plugins\Polarith.AI.xml" />
  <Reference Include="UnityEngine.UIAutomation">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
  </Reference>
@@ -97,9 +88,6 @@
  </Reference>
  <Reference Include="UnityEngine.Purchasing">
  <HintPath>/Users/pip/Library/Unity/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/UnityEngine.Purchasing.dll</HintPath>
- </Reference>
- <Reference Include="Polarith.AI">
- <HintPath>/Users/pip/Media Lab/Unity/Design Daydreams/ACADIA/Assets/Polarith/AI/Plugins/Polarith.AI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

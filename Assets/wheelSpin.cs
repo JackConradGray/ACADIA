@@ -9,6 +9,6 @@ public class WheelSpin : MonoBehaviour {
 
 	void Update ()
 	{
-		transform.Rotate(Vector3.up, speed * Time.deltaTime);
+		transform.Rotate(Vector2.up, speed * Time.deltaTime);
 	}
 }

@@ -26,3 +26,4 @@
 /Users/pip/Media Lab/Unity/Design Daydreams/ACADIA/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/pip/Media Lab/Unity/Design Daydreams/ACADIA/Temp/bin/Debug/Unity.Cecil.Pdb.dll
 /Users/pip/Media Lab/Unity/Design Daydreams/ACADIA/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/pip/Media Lab/Unity/Design Daydreams/ACADIA/Temp/bin/Debug/Polarith.AI.dll
